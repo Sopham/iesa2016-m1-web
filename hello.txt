@@ -1,0 +1,9 @@
+git status
+git add / rm
+git commit -m "x"
+
+git push ( partage )
+git pull ( recupere )
+
+pull request : collaborer sur un projet qui nous appartient pas entièrement
+
